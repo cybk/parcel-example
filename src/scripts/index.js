@@ -1,4 +1,5 @@
 import { getFullName } from './utils'
+import '../styles/index.scss'
 
 const firstName = getFullName('Andrew Mead');
 
